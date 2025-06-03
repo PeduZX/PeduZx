@@ -16,7 +16,8 @@ Sou uma pessoa **ambiciosa**, com muita **curiosidade** para aprender coisas nov
 
 ---
 
-## 🛠️ Tecnologias que estou aprendendo
+##  🧠 Habilidades em Programação
+
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
