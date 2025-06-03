@@ -16,7 +16,7 @@ Sou uma pessoa **ambiciosa**, com muita **curiosidade** para aprender coisas nov
 
 ---
 
-## 🛠️ Tecnologias que estou aprendendo
+## 🛠️ Conhecimentos
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
