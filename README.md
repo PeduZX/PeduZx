@@ -1,4 +1,3 @@
-# PedroFarenzena
 <h1 align="center">👋 Olá! Eu sou o Pedro Farenzena</h1>
 
 <p align="center">
@@ -13,6 +12,8 @@ Sou um estudante apaixonado por tecnologia e desenvolvimento web. Com 17 anos, e
 
 Tenho como objetivo trabalhar profissionalmente como **desenvolvedor web**, criando soluções modernas, funcionais e que façam a diferença.
 
+Sou uma pessoa **ambiciosa**, com muita **curiosidade** para aprender coisas novas e sempre em busca de evoluir tanto pessoal quanto profissionalmente.
+
 ---
 
 ## 🛠️ Tecnologias que estou aprendendo
@@ -24,18 +25,18 @@ Tenho como objetivo trabalhar profissionalmente como **desenvolvedor web**, cria
 
 ---
 
-## 🌱 O que estou buscando
+## 💡 Habilidades
 
-- Aprender frameworks como **React** e **Spring Boot**
-- Praticar boas práticas de desenvolvimento
-- Colaborar com projetos open source
-- Criar um portfólio com projetos completos
+- 📘 **Inglês Avançado**
+- 🔍 Adoro aprender coisas novas 
+- 🧭 Autodidata e proativo
 
 ---
 
 ## 📫 Como me encontrar
 
-Você pode me acompanhar aqui no GitHub para ver meus projetos e minha evolução. Em breve também estarei compartilhando meus perfis profissionais e portfólio online!
+Você pode me acompanhar aqui no GitHub para ver meus projetos e minha evolução. 
+Caso queira ver meu linkedin : https://www.linkedin.com/in/pedro-farenzena-a3228b307/
 
 ---
 
