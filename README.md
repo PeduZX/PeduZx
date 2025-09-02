@@ -4,24 +4,24 @@
   🧑‍💻 Desenvolvedor em formação • 17 anos • Foco em Desenvolvimento Web
 </p>
 
-##
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG45eWRsYmE2dnRmNTY0MTFrM29qeHE3NHBobTV1aGQxdzR2c2UyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="100px" alt="GIF de boas-vindas" />
+</p>
 
 ---
 
-<div>
+<h2 align="center">📊 Minhas Estatísticas no GitHub</h2>
+
+<p align="center">
   <a href="https://github.com/PeduZx">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PeduZx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeduZX&layout=compact&langs_count=16&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PeduZx&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" alt="Estatísticas do GitHub de PeduZx" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeduZX&layout=compact&langs_count=16&theme=dark&hide_border=true&border_radius=10" alt="Top Linguagens de PeduZx" />
   </a>
-</div>
-
-
-
-##
+</p>
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 Sobre Mim
 
 Sou um estudante apaixonado por tecnologia e desenvolvimento web. Com 17 anos, estou dando meus primeiros passos na programação, explorando as principais linguagens da área e construindo projetos para colocar em prática tudo o que aprendo.
 
@@ -31,8 +31,7 @@ Sou uma pessoa **ambiciosa**, com muita **curiosidade** para aprender coisas nov
 
 ---
 
-##  🧠 Habilidades em Programação
-
+## 🧠 Habilidades em Programação
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
@@ -40,26 +39,25 @@ Sou uma pessoa **ambiciosa**, com muita **curiosidade** para aprender coisas nov
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"/>
-</p>
+  </p>
 
 ---
 
-## 💡 Habilidades
+## 💡 Outras Habilidades
 
 - 📘 **Inglês Avançado**
-- 🔍 Adoro aprender coisas novas 
+- 🔍 Adoro aprender coisas novas
 - 🧭 Autodidata e proativo
 
 ---
 
-## 📫 Como me encontrar
+## 📫 Como me Encontrar
 
-Você pode me acompanhar aqui no GitHub para ver meus projetos e minha evolução.  
+Você pode me acompanhar aqui no GitHub para ver meus projetos e minha evolução.
 Caso queira ver meu LinkedIn: [clique aqui](https://www.linkedin.com/in/pedro-farenzena-a3228b307/)
 
+
+
 ---
-
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
 
 <p align="center">✨ Obrigado por visitar meu perfil! ✨</p>
