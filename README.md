@@ -4,6 +4,21 @@
   🧑‍💻 Desenvolvedor em formação • 17 anos • Foco em Desenvolvimento Web
 </p>
 
+##
+
+---
+
+<div>
+  <a href="https://github.com/PeduZx">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PeduZx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeduZX&layout=compact&langs_count=16&theme=dark"/>
+  </a>
+</div>
+
+
+
+##
+
 ---
 
 ## 🚀 Sobre mim
@@ -43,5 +58,8 @@ Você pode me acompanhar aqui no GitHub para ver meus projetos e minha evoluçã
 Caso queira ver meu LinkedIn: [clique aqui](https://www.linkedin.com/in/pedro-farenzena-a3228b307/)
 
 ---
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
 
 <p align="center">✨ Obrigado por visitar meu perfil! ✨</p>
