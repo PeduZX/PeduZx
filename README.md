@@ -1,6 +1,10 @@
 <h1 align="center">👋 Olá! Eu sou o Pedro Farenzena Magalhães</h1>
 
 <p align="center">
+  <img loading="lazy" width="600" height="300" src="https://text.media.giphy.com/v1/media/giphy.gif?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJwcm9kLTIwMjAtMDQtMjIiLCJzdHlsZSI6ImJsZXNzIiwidGV4dCI6IlBlZHJvJTIwRmFyZW56ZW5hIiwiaWF0IjoxNzU2ODQ5MDU5fQ.SWZfry1GJnKyDnP3XbpsajSjlXNWQldZL1LBa0ERiYg">
+</p>
+
+<p align="center">
   🧑‍💻 Desenvolvedor em formação • 17 anos • Foco em Desenvolvimento Web
 </p>
 
@@ -64,5 +68,8 @@ Sou uma pessoa **ambiciosa**, com muita **curiosidade** para aprender coisas nov
 </p>
 
 ---
-
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Nome aparecendo letra por letra" width="300" />
+</p>
+    
 <p align="center">✨ Obrigado por visitar meu perfil! ✨</p>
