@@ -51,9 +51,8 @@ Sou uma pessoa **ambiciosa**, com muita **curiosidade** para aprender coisas nov
 
 ## 💡 Outras Habilidades
 
-- 📘 **Inglês Avançado**
-- 🔍 Apaixonado por aprender coisas novas
-- 🧭 Autodidata e proativo
+- 📘 **Inglês**
+- 🔍 Adoro aprender coisas nova
 
 ---
 
