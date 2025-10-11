@@ -62,7 +62,7 @@ Sou uma pessoa **ambiciosa**, com muita **curiosidade** para aprender coisas nov
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PeduZx/output/pacman-contribution-graph.svg">
 </picture>
 ---
-###
+
 ## 📫 Como me Encontrar
 
 <p align="center">
