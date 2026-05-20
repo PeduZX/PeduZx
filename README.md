@@ -33,7 +33,7 @@ const pedro = {
 - 🌱 Exploring **Node.js**, **REST APIs** and **Clean Architecture** patterns
 - 💡 Passionate about writing code that is **readable**, **scalable** and **maintainable**
 - 🎯 Goal: land my first professional dev role and keep shipping meaningful software
-- ⚡ Started coding at 16 — one commit at a time, every single day
+- ⚡ Started coding at 15 — one commit at a time, every single day
 
 ---
 
