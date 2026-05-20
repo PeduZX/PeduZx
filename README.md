@@ -96,7 +96,6 @@ const pedro = {
   ├─ 🔄  React & component architecture     ────────►│
   ├─ 🔄  React Native & mobile dev         ────────►│
   ├─ 🔄  Python scripting & automation     ────────►│
-  ├─ ⏳  Node.js & REST APIs                        │
   ├─ ⏳  TypeScript                                 │
   └─ ⏳  Next.js & full-stack apps                  │
                                                      │
