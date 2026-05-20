@@ -1,20 +1,5 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   const athos = {                                            ║
-║     age: 17,                                                 ║
-║     location: "São Leopoldo, RS — Brazil",                   ║
-║     focus: ["Full Stack", "Clean Architecture", "Mobile"],   ║
-║     languages: ["Portuguese (native)", "English (fluent)"],  ║
-║     alwaysLearning: true,                                    ║
-║     motto: "Clean code separates good from great software."  ║
-║   };                                                         ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
 # Hey, I'm Pedro Farenzena 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C6FE0&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+in+the+making;17+y%2Fo+%7C+S%C3%A3o+Leopoldo%2C+Brazil;Clean+Code+%26+Real-World+Projects;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
