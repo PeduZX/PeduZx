@@ -104,18 +104,6 @@ const pedro = {
 
 ---
 
-## 🎯 Current Goals
-
-| # | Goal | Status |
-|---|------|--------|
-| 1 | Master React & React Native | 🔄 In Progress |
-| 2 | Build a fullstack Python project | 🔄 In Progress |
-| 3 | Contribute to open source | ⏳ Soon |
-| 4 | Land my first dev job | 🎯 Big Goal |
-| 5 | Learn TypeScript + Next.js | ⏳ Up Next |
-
----
-
 ## 🌐 Connect with Me
 
 <div align="center">
