@@ -18,7 +18,7 @@
 
 ```js
 const pedro = {
-  age            : 17,
+  age            : 18,
   location       : "Esteio, RS — Brazil 🇧🇷",
   role           : "Full Stack Developer in the making",
   focus          : ["Full Stack Development", "Clean Architecture", "Real-World Projects"],
