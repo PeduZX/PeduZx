@@ -24,13 +24,10 @@ const pedro = {
   focus          : ["Full Stack Development", "Clean Architecture", "Real-World Projects"],
   currentlyLearning : ["React ⚛️", "React Native 📱", "Python 🐍", "Node.js 🟢"],
   languages      : ["Portuguese (native)", "English (fluent)"],
-  alwaysLearning : true,
-  motto          : "Clean code and good architecture separate good software from great software."
 };
 ```
 
 - 🔭 Building real projects with **React**, **React Native** and **Python**
-- 🌱 Exploring **Node.js**, **REST APIs** and **Clean Architecture** patterns
 - 💡 Passionate about writing code that is **readable**, **scalable** and **maintainable**
 - 🎯 Goal: land my first professional dev role and keep shipping meaningful software
 - ⚡ Started coding at 15 — one commit at a time, every single day
