@@ -82,24 +82,6 @@ const pedro = {
 
 ---
 
-## 🗺️ Learning Roadmap
-
-```
-2024 ──────────────────────────────────────────── 2025+
-  │                                                  │
-  ├─ ✅  HTML · CSS · JavaScript                     │
-  ├─ ✅  Java fundamentals                           │
-  ├─ ✅  MySQL & relational databases                │
-  ├─ 🔄  React & component architecture     ────────►│
-  ├─ 🔄  React Native & mobile dev         ────────►│
-  ├─ 🔄  Python scripting & automation     ────────►│
-  ├─ ⏳  TypeScript                                 │
-  └─ ⏳  Next.js & full-stack apps                  │
-                                                     │
-  ✅ done   🔄 in progress   ⏳ up next
-```
-
----
 
 ## 🌐 Connect with Me
 
